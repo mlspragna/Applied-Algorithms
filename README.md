@@ -5,4 +5,4 @@ This repository is for the "CS 602 Applied Algorithms" course offered by IIT Bom
 ## Contents
 
 - **Assignments**: Find assignment files in the `assignments` directory.
-- **Paper Presentation**: The paper presentation is on [The Uncapacitated Facility Location LP Rounding Presentation](paper-presentation.ppt)
+- **Paper Presentation**: The paper presentation is on [The Uncapacitated Facility Location LP Rounding Presentation](https://github.com/mlspragna/Applied-Algorithms/blob/main/Paper%20presentation.pptx)
