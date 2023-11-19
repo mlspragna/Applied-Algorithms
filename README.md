@@ -1,6 +1,6 @@
 # CS 602 Applied Algorithms
 
-This repository is for the "CS 602 Applied Algorithms" course offered by IIT Bombay, taught by Professor [Rohit Gurjar], focusing on Combinatorial Optimization via Linear & Convex Programming. It includes assignment files and a paper presentation."
+This repository is for the "CS 602 Applied Algorithms" course offered by IIT Bombay, taught by Professor **Rohit Gurjar**, focusing on Combinatorial Optimization via Linear & Convex Programming. It includes assignment files and a paper presentation."
 
 ## Contents
 
